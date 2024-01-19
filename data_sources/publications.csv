@@ -1,6 +1,5 @@
-dataset_doi,publication_orkg_id
-10.57702/tue9isc6,R644774
-10.57702/4c9ivpgs,R645005
-10.57702/ldr8qrii,R645005
-10.57702/phd0av56,R645000
-10.25835/0035739,R576963
+publication_orkg_id,url
+R644774,https://orkg.org/paper/R644774
+R645005,https://orkg.org/paper/R645005
+R645000,https://orkg.org/paper/R645000
+R576963,https://orkg.org/paper/R576963
